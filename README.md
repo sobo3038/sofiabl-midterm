@@ -1,7 +1,7 @@
 # Amazon Movie Reviews Rating Prediction
 
 ## Objective
-The goal of this project is to predict star ratings for Amazon Movie Reviews by transforming both review text and metadata into predictive features. This project combines feature engineering and advanced text processing techniques to achieve a meaningful predictive model.
+The goal of this midterm competition is to predict star ratings for Amazon Movie Reviews by transforming both review text and metadata into predictive features. This project combines feature engineering and advanced text processing techniques to achieve a meaningful predictive model.
 
 ---
 
