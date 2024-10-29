@@ -5,14 +5,5 @@ The goal of this project is to predict star ratings for Amazon Movie Reviews by 
 
 ---
 
-## Feature Engineering
-
-- ### Review Length
-- ### Helpfulness Score
-- ### Sentiment Analysis
-- ### TF-IDF & LSA
-
----
-
 ## Results
 - **Final Testing Accuracy**: **64.2%**
